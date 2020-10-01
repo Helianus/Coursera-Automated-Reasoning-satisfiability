@@ -1,0 +1,2 @@
+# Coursera Automated Reasoning satisfiability
+ 
